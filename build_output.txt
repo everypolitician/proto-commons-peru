@@ -1,0 +1,8 @@
+WARNING: Position congresista del Perú (Q18812470) not in boundary associated_wikidata_positions
+WARNING: the district Ariqipa jach'a suyu (Q205068) wasn't found in the boundary data for position congresista del Perú (Q18812470)
+WARNING: the district Lima (Q2868) wasn't found in the boundary data for position congresista del Perú (Q18812470)
+WARNING: the district Lima Metropolitana (Q3773144) wasn't found in the boundary data for position congresista del Perú (Q18812470)
+WARNING: the district Lima (Q2868) wasn't found in the boundary data for position congresista del Perú (Q18812470)
+WARNING: the district Ariqipa jach'a suyu (Q205068) wasn't found in the boundary data for position congresista del Perú (Q18812470)
+WARNING: the district La Libertad jach'a suyu (Q205126) wasn't found in the boundary data for position congresista del Perú (Q18812470)
+WARNING: the district Lima jach'a suyu (Q211795) wasn't found in the boundary data for position congresista del Perú (Q18812470)
