@@ -1,0 +1,23 @@
+[
+  {
+    "role_id": "Q18812470",
+    "role_name": {
+      "lang:es": "congresista del Perú",
+      "lang:en": "member of the Congress of the Republic of Peru"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:es": "parlamentario",
+      "lang:qu": "Apulliq",
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q1357543",
+    "organization_name": {
+      "lang:es": "Congreso de la República del Perú",
+      "lang:qu": "Piruwpa Kunrisun",
+      "lang:en": "Congress of the Republic of Peru"
+    }
+  }
+]
