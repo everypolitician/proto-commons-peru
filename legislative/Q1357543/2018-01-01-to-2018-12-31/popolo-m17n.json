@@ -382,6 +382,7 @@
     {
       "name": {
         "lang:es": "Daniel Salaverry",
+        "lang:qu": "Daniel Salaverry",
         "lang:en": "Daniel Salaverry"
       },
       "id": "Q26155916",
@@ -573,6 +574,22 @@
           "note": "facebook",
           "url": "https://www.facebook.com/HumbertoLay"
         }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Luis Pércovich Roca",
+        "lang:en": "Luis Pércovich Roca"
+      },
+      "id": "Q3266795",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3266795"
+        }
+      ],
+      "links": [
+
       ]
     },
     {
@@ -797,6 +814,25 @@
       ],
       "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Julio Gagó",
+        "lang:en": "Julio Gagó"
+      },
+      "id": "Q47494039",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47494039"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/JulioGagoPe"
+        }
       ]
     },
     {
@@ -1353,6 +1389,39 @@
         {
           "scheme": "wikidata",
           "identifier": "Q5654876"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Julio Rosas Huaranga"
+      },
+      "id": "Q56679131",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56679131"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/JulioRosasH"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Edyson Humberto Morales Ramirez"
+      },
+      "id": "Q56679136",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56679136"
         }
       ],
       "links": [
@@ -2160,7 +2229,7 @@
     {
       "name": {
         "lang:es": "Luis Wilson",
-        "lang:en": "Luis Wilson"
+        "lang:en": "Alberto Contreras de"
       },
       "id": "Q6701210",
       "identifiers": [
@@ -3497,6 +3566,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3266795-1d8fa6f9-cfb6-4ccd-9d81-02646f502a96",
+      "person_id": "Q3266795",
+      "organization_id": "Q1357543",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:es": "parlamentario",
+        "lang:qu": "Apulliq",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18812470",
+      "role": {
+        "lang:es": "congresista del Perú",
+        "lang:en": "member of the Congress of the Republic of Peru"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3295155-9cbc4ea1-4cad-8077-a0c0-ba80d1b05635",
       "person_id": "Q3295155",
       "organization_id": "Q1357543",
@@ -3709,6 +3794,22 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4723735-68985455-CB90-4A20-B45B-0EACE7C529CB",
       "person_id": "Q4723735",
+      "organization_id": "Q1357543",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:es": "parlamentario",
+        "lang:qu": "Apulliq",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18812470",
+      "role": {
+        "lang:es": "congresista del Perú",
+        "lang:en": "member of the Congress of the Republic of Peru"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47494039-2622d5d8-4834-c508-4baf-9ea935ff20a1",
+      "person_id": "Q47494039",
       "organization_id": "Q1357543",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -4269,6 +4370,38 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5621390-22372C1E-62E9-4FBF-BA67-5BBEB46593A2",
       "person_id": "Q5621390",
+      "organization_id": "Q1357543",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:es": "parlamentario",
+        "lang:qu": "Apulliq",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18812470",
+      "role": {
+        "lang:es": "congresista del Perú",
+        "lang:en": "member of the Congress of the Republic of Peru"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56679131-6cb49b66-4a26-1cff-2203-e9d4b61150a8",
+      "person_id": "Q56679131",
+      "organization_id": "Q1357543",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:es": "parlamentario",
+        "lang:qu": "Apulliq",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q18812470",
+      "role": {
+        "lang:es": "congresista del Perú",
+        "lang:en": "member of the Congress of the Republic of Peru"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56679136-9d05f744-42bb-3cc8-749c-b81396d7376c",
+      "person_id": "Q56679136",
       "organization_id": "Q1357543",
       "role_superclass_code": "Q486839",
       "role_superclass": {
