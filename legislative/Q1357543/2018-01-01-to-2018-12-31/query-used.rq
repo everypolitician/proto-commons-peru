@@ -38,6 +38,10 @@ OPTIONAL {
   }
   ?item wdt:P31 wd:Q5 ;
         p:P39 ?statement .
+  ?statement ps:P39/wdt:P279* ?specific_role .
+  OPTIONAL { ?statement pq:P580 ?start }
+  OPTIONAL { ?statement pq:P582 ?end }
+  
   OPTIONAL {
   ?item rdfs:label ?name_ay
   FILTER(LANG(?name_ay) = "ay")
@@ -58,7 +62,6 @@ OPTIONAL {
   FILTER(LANG(?name_en) = "en")
 }
 
-  ?statement ps:P39/wdt:P279* ?specific_role .
   OPTIONAL {
   ?role rdfs:label ?role_ay
   FILTER(LANG(?role_ay) = "ay")
@@ -103,9 +106,6 @@ OPTIONAL {
 }
 
   }
-  
-  OPTIONAL { ?statement pq:P580 ?start }
-  OPTIONAL { ?statement pq:P582 ?end }
   OPTIONAL {
     ?statement pq:P768 ?district.
     OPTIONAL {
@@ -158,4 +158,4 @@ BIND(COALESCE(?end, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?end_or_sentinel)
 FILTER (?end_or_sentinel >= "2018-01-01"^^xsd:dateTime)
 FILTER (?start_or_sentinel <= "2018-12-31"^^xsd:dateTime)
 
-} ORDER BY ?item ?role ?start ?end
+} ORDER BY ?item ?role ?start ?end ?role_superclass ?party ?org ?district

@@ -1,93 +1,118 @@
 {
-  "head" : {
-    "vars" : [ "position", "position_name_ay", "position_name_es", "position_name_qu", "position_name_en", "positionType", "adminAreaTypes", "adminArea", "admin_area_ay", "admin_area_es", "admin_area_qu", "admin_area_en", "positionSuperclass", "position_superclass_ay", "position_superclass_es", "position_superclass_qu", "position_superclass_en", "body", "body_ay", "body_es", "body_qu", "body_en" ]
+  "head": {
+    "vars": [
+      "position",
+      "position_name_ay",
+      "position_name_es",
+      "position_name_qu",
+      "position_name_en",
+      "positionType",
+      "adminAreaTypes",
+      "adminArea",
+      "admin_area_ay",
+      "admin_area_es",
+      "admin_area_qu",
+      "admin_area_en",
+      "positionSuperclass",
+      "position_superclass_ay",
+      "position_superclass_es",
+      "position_superclass_qu",
+      "position_superclass_en",
+      "body",
+      "body_ay",
+      "body_es",
+      "body_qu",
+      "body_en"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18812470"
-      },
-      "position_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "congresista del Perú"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the Congress of the Republic of Peru"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q6256"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q419"
-      },
-      "admin_area_ay" : {
-        "xml:lang" : "ay",
-        "type" : "literal",
-        "value" : "Piruw"
-      },
-      "admin_area_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Perú"
-      },
-      "admin_area_qu" : {
-        "xml:lang" : "qu",
-        "type" : "literal",
-        "value" : "Piruw"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Peru"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "position_superclass_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "parlamentario"
-      },
-      "position_superclass_qu" : {
-        "xml:lang" : "qu",
-        "type" : "literal",
-        "value" : "Apulliq"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1357543"
-      },
-      "body_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Congreso de la República del Perú"
-      },
-      "body_qu" : {
-        "xml:lang" : "qu",
-        "type" : "literal",
-        "value" : "Piruwpa Kunrisun"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Congress of the Republic of Peru"
+  "results": {
+    "bindings": [
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18812470"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "congresista del Perú"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Congress of the Republic of Peru"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q419"
+        },
+        "admin_area_ay": {
+          "xml:lang": "ay",
+          "type": "literal",
+          "value": "Piruw"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Perú"
+        },
+        "admin_area_qu": {
+          "xml:lang": "qu",
+          "type": "literal",
+          "value": "Piruw"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Peru"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "parlamentario"
+        },
+        "position_superclass_qu": {
+          "xml:lang": "qu",
+          "type": "literal",
+          "value": "Apulliq"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1357543"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Congreso de la República del Perú"
+        },
+        "body_qu": {
+          "xml:lang": "qu",
+          "type": "literal",
+          "value": "Piruwpa Kunrisun"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Congress of the Republic of Peru"
+        }
       }
-    } ]
+    ]
   }
 }
