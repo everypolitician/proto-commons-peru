@@ -45,11 +45,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10500040"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Juana Huancahuari"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -82,6 +77,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Juana Huancahuari"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -130,11 +130,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11015795"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Verónika Mendoza"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -167,6 +162,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Verónika Mendoza"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -219,11 +219,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11684591"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Javier Bedoya"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -256,6 +251,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Javier Bedoya"
       }
     }, {
       "statement" : {
@@ -299,11 +299,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q11686207"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "José Vega"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -336,6 +331,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "José Vega"
       }
     }, {
       "statement" : {
@@ -379,11 +379,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12052722"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Martha Acosta"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -416,6 +411,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Martha Acosta"
       }
     }, {
       "statement" : {
@@ -459,11 +459,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12054305"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "José Carrasco"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -496,6 +491,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "José Carrasco"
       }
     }, {
       "statement" : {
@@ -539,11 +539,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q12057267"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Francisco Escudero Casquino"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -576,6 +571,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Francisco Escudero Casquino"
       }
     }, {
       "statement" : {
@@ -619,11 +619,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1406788"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Fernando Olivera"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -656,6 +651,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fernando Olivera"
       }
     }, {
       "statement" : {
@@ -699,11 +699,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16123380"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "José Anaya"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -736,6 +731,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "José Anaya"
       }
     }, {
       "statement" : {
@@ -779,11 +779,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16191425"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "José Augusto Vargas"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -816,6 +811,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "José Augusto Vargas"
       }
     }, {
       "statement" : {
@@ -859,11 +859,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16582220"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Jorge Lozada Stanbury"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -896,6 +891,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jorge Lozada Stanbury"
       }
     }, {
       "statement" : {
@@ -939,11 +939,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16606863"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Wilson Urtecho"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -976,6 +971,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wilson Urtecho"
       }
     }, {
       "statement" : {
@@ -1019,11 +1019,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16734395"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Martín Pérez"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -1056,6 +1051,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Martín Pérez"
       }
     }, {
       "statement" : {
@@ -1099,11 +1099,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1748727"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Felipe Muñoz Charcape"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -1136,6 +1131,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Felipe Muñoz Charcape"
       }
     }, {
       "statement" : {
@@ -1179,11 +1179,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17620538"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Luis Iberico Núñez"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -1216,6 +1211,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luis Iberico Núñez"
       }
     }, {
       "statement" : {
@@ -1259,11 +1259,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17620538"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Luis Iberico Núñez"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -1296,6 +1291,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luis Iberico Núñez"
       }
     }, {
       "statement" : {
@@ -1339,11 +1339,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17708832"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Manuel Lajo"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -1376,6 +1371,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manuel Lajo"
       }
     }, {
       "statement" : {
@@ -1419,11 +1419,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1898988"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mario Peña"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -1456,6 +1451,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Peña"
       }
     }, {
       "statement" : {
@@ -1499,11 +1499,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20016230"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Jesús Hurtado Zamudio"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -1536,6 +1531,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jesús Hurtado Zamudio"
       }
     }, {
       "statement" : {
@@ -1579,11 +1579,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2361219"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Francisco García Calderón"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -1616,6 +1611,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Francisco García Calderón"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -1669,11 +1669,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24884664"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gian Carlo Vacchelli"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -1706,6 +1701,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gian Carlo Vacchelli"
       }
     }, {
       "statement" : {
@@ -1749,11 +1749,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q257395"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lourdes Flores Nano"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -1786,6 +1781,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lourdes Flores Nano"
       }
     }, {
       "statement" : {
@@ -1829,11 +1829,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2615426"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gabriela Pérez del Solar"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -1866,6 +1861,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gabriela Pérez del Solar"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -1914,11 +1914,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q26155682"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rosa Bartra"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -1951,6 +1946,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rosa Bartra"
       },
       "facebook" : {
         "type" : "literal",
@@ -1998,11 +1998,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q26155916"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Daniel Salaverry"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -2035,6 +2030,16 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Daniel Salaverry"
+      },
+      "name_qu" : {
+        "xml:lang" : "qu",
+        "type" : "literal",
+        "value" : "Daniel Salaverry"
       },
       "facebook" : {
         "type" : "literal",
@@ -2087,11 +2092,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q26155916"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Daniel Salaverry"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -2124,6 +2124,16 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Daniel Salaverry"
+      },
+      "name_qu" : {
+        "xml:lang" : "qu",
+        "type" : "literal",
+        "value" : "Daniel Salaverry"
       },
       "facebook" : {
         "type" : "literal",
@@ -2176,11 +2186,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q26195799"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alejandra Aramayo"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -2214,6 +2219,11 @@
         "type" : "literal",
         "value" : "130"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alejandra Aramayo"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "AleAramayoGaona"
@@ -2230,7 +2240,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Arequipa Region"
+        "value" : "Arequipa"
       },
       "district_name_qu" : {
         "xml:lang" : "qu",
@@ -2240,7 +2250,7 @@
       "district_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Departamento de Arequipa"
+        "value" : "Arequipa"
       },
       "district_name_ay" : {
         "xml:lang" : "ay",
@@ -2289,11 +2299,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2665739"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cecilia Tait"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -2326,6 +2331,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cecilia Tait"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -2378,11 +2388,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2881203"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alcides Spelucín"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -2415,6 +2420,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alcides Spelucín"
       }
     }, {
       "statement" : {
@@ -2458,11 +2468,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2881203"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alcides Spelucín"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -2495,6 +2500,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alcides Spelucín"
       }
     }, {
       "statement" : {
@@ -2538,11 +2548,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2882056"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Aldo Estrada"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -2575,6 +2580,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aldo Estrada"
       }
     }, {
       "statement" : {
@@ -2618,11 +2628,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q28939729"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Freddy Sarmiento"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -2655,6 +2660,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Freddy Sarmiento"
       }
     }, {
       "statement" : {
@@ -2698,11 +2708,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q29002714"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tania Pariona Tarqui"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -2735,6 +2740,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tania Pariona Tarqui"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -2783,11 +2793,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q29110081"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Miguel Ángel Torres"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -2820,6 +2825,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Miguel Ángel Torres"
       },
       "facebook" : {
         "type" : "literal",
@@ -2891,11 +2901,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q29642108"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alberto de Belaunde"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -2929,6 +2934,11 @@
         "type" : "literal",
         "value" : "130"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alberto de Belaunde"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "albertodebelaunde"
@@ -2945,7 +2955,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Lima Metropolitan Area"
+        "value" : "Lima metropolitan area"
       },
       "district_name_qu" : {
         "xml:lang" : "qu",
@@ -2999,11 +3009,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3047443"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edgar David Villanueva"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -3036,6 +3041,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edgar David Villanueva"
       }
     }, {
       "statement" : {
@@ -3079,11 +3089,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3143212"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Humberto Lay"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -3117,9 +3122,94 @@
         "type" : "literal",
         "value" : "130"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Humberto Lay"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "HumbertoLay"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3266795-1d8fa6f9-cfb6-4ccd-9d81-02646f502a96"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role_superclass_qu" : {
+        "xml:lang" : "qu",
+        "type" : "literal",
+        "value" : "Apulliq"
+      },
+      "role_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "parlamentario"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18812470"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Congress of the Republic of Peru"
+      },
+      "role_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "congresista del Perú"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3266795"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Luis Pércovich Roca"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1357543"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of the Republic of Peru"
+      },
+      "org_qu" : {
+        "xml:lang" : "qu",
+        "type" : "literal",
+        "value" : "Piruwpa Kunrisun"
+      },
+      "org_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de la República del Perú"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q419"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luis Pércovich Roca"
       }
     }, {
       "statement" : {
@@ -3163,11 +3253,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3295155"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Martha Chávez"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -3200,6 +3285,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Martha Chávez"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -3277,11 +3367,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3551244"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Luis Gonzales Posada"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -3314,6 +3399,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luis Gonzales Posada"
       }
     }, {
       "statement" : {
@@ -3357,11 +3447,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q365435"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Jorge Del Castillo"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -3394,6 +3479,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jorge Del Castillo"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -3442,11 +3532,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q365435"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Jorge Del Castillo"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -3479,6 +3564,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jorge Del Castillo"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -3527,11 +3617,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q372590"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Luisa María Cuculiza"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -3564,6 +3649,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luisa María Cuculiza"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -3616,11 +3706,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4392555"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rafael Rey"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -3653,6 +3738,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rafael Rey"
       }
     }, {
       "statement" : {
@@ -3696,11 +3786,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4532785"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Marisol Espinoza"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -3733,6 +3818,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marisol Espinoza"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -3785,11 +3875,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q459193"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Javier Velásquez"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -3822,6 +3907,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Javier Velásquez"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -3874,11 +3964,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q463288"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "María Sumire"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -3911,6 +3996,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "María Sumire"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -3959,11 +4049,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q463539"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Beatriz Merino"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -3996,6 +4081,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Beatriz Merino"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -4044,11 +4134,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4713408"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alda Lazo"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -4081,6 +4166,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alda Lazo"
       }
     }, {
       "statement" : {
@@ -4124,11 +4214,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4714464"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alejandro Aguinaga"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -4161,6 +4246,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alejandro Aguinaga"
       }
     }, {
       "statement" : {
@@ -4204,11 +4294,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4714643"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alejandro Rebaza"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -4241,6 +4326,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alejandro Rebaza"
       }
     }, {
       "statement" : {
@@ -4284,11 +4374,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4723735"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alfredo Cenzano"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -4321,6 +4406,95 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alfredo Cenzano"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q47494039-2622d5d8-4834-c508-4baf-9ea935ff20a1"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role_superclass_qu" : {
+        "xml:lang" : "qu",
+        "type" : "literal",
+        "value" : "Apulliq"
+      },
+      "role_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "parlamentario"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18812470"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Congress of the Republic of Peru"
+      },
+      "role_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "congresista del Perú"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47494039"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Julio Gagó"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1357543"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of the Republic of Peru"
+      },
+      "org_qu" : {
+        "xml:lang" : "qu",
+        "type" : "literal",
+        "value" : "Piruwpa Kunrisun"
+      },
+      "org_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de la República del Perú"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q419"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Julio Gagó"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "JulioGagoPe"
       }
     }, {
       "statement" : {
@@ -4364,11 +4538,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4761626"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Anel Townsend"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -4401,6 +4570,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Anel Townsend"
       }
     }, {
       "statement" : {
@@ -4444,11 +4618,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4771293"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Antenor Orrego"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -4481,6 +4650,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antenor Orrego"
       }
     }, {
       "statement" : {
@@ -4524,11 +4698,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4776347"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Antonina Sasieta"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -4561,6 +4730,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antonina Sasieta"
       }
     }, {
       "statement" : {
@@ -4604,11 +4778,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4778501"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Aníbal Huerta"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -4641,6 +4810,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aníbal Huerta"
       }
     }, {
       "statement" : {
@@ -4684,11 +4858,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4822269"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Aurelio Pastor"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -4721,6 +4890,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aurelio Pastor"
       }
     }, {
       "statement" : {
@@ -4764,11 +4938,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48364410"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Esther Capuñay"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -4801,6 +4970,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Esther Capuñay"
       }
     }, {
       "statement" : {
@@ -4844,11 +5018,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4889518"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mauricio Mulder"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -4881,6 +5050,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mauricio Mulder"
       }
     }, {
       "statement" : {
@@ -4924,11 +5098,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5041863"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Carlos Bruce"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -4961,6 +5130,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carlos Bruce"
       }
     }, {
       "statement" : {
@@ -5004,11 +5178,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5041969"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Carlos Cánepa"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -5041,6 +5210,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carlos Cánepa"
       }
     }, {
       "statement" : {
@@ -5084,11 +5258,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5042715"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Carlos Torres Caro"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -5121,6 +5290,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carlos Torres Caro"
       }
     }, {
       "statement" : {
@@ -5164,11 +5338,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5055415"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cayo Galindo"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -5201,6 +5370,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cayo Galindo"
       }
     }, {
       "statement" : {
@@ -5244,11 +5418,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q515514"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cecilia Chacón"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -5281,6 +5450,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cecilia Chacón"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -5329,11 +5503,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5216352"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Daniel Abugattás"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -5366,6 +5535,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Daniel Abugattás"
       },
       "facebook" : {
         "type" : "literal",
@@ -5413,11 +5587,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5216352"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Daniel Abugattás"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -5450,6 +5619,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Daniel Abugattás"
       },
       "facebook" : {
         "type" : "literal",
@@ -5497,11 +5671,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5218597"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Daniel Robles"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -5534,6 +5703,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Daniel Robles"
       }
     }, {
       "statement" : {
@@ -5577,11 +5751,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5240770"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "David Waisman"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -5614,6 +5783,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "David Waisman"
       }
     }, {
       "statement" : {
@@ -5657,11 +5831,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q530924"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Carlos Raffo"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -5694,6 +5863,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carlos Raffo"
       }
     }, {
       "statement" : {
@@ -5737,11 +5911,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5337400"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edgar Núñez"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -5774,6 +5943,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edgar Núñez"
       }
     }, {
       "statement" : {
@@ -5817,11 +5991,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5337559"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edgard Reymundo"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -5854,6 +6023,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edgard Reymundo"
       }
     }, {
       "statement" : {
@@ -5897,11 +6071,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5340596"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Eduardo Espinoza"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -5934,6 +6103,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eduardo Espinoza"
       }
     }, {
       "statement" : {
@@ -5977,11 +6151,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5340757"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Eduardo Salhuana"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -6014,6 +6183,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eduardo Salhuana"
       }
     }, {
       "statement" : {
@@ -6057,11 +6231,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5363116"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Elizabeth León"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -6094,6 +6263,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Elizabeth León"
       }
     }, {
       "statement" : {
@@ -6137,11 +6311,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5367394"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Elsa Canchaya"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -6174,6 +6343,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Elsa Canchaya"
       }
     }, {
       "statement" : {
@@ -6217,11 +6391,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5368669"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Elías Rodríguez"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -6254,6 +6423,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Elías Rodríguez"
       },
       "facebook" : {
         "type" : "literal",
@@ -6301,11 +6475,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5403653"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gino Costa"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -6338,6 +6507,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gino Costa"
       },
       "facebook" : {
         "type" : "literal",
@@ -6385,11 +6559,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5427886"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Fabiola Morales"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -6422,6 +6591,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fabiola Morales"
       }
     }, {
       "statement" : {
@@ -6465,11 +6639,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5427889"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Fabiola Salazar"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -6502,6 +6671,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fabiola Salazar"
       }
     }, {
       "statement" : {
@@ -6545,11 +6719,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5484537"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Franco Carpio"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -6582,6 +6751,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Franco Carpio"
       }
     }, {
       "statement" : {
@@ -6625,11 +6799,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5491884"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Franklin Sánchez"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -6662,6 +6831,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Franklin Sánchez"
       }
     }, {
       "statement" : {
@@ -6705,11 +6879,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5499599"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Fredy Otárola"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -6742,6 +6911,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fredy Otárola"
       },
       "facebook" : {
         "type" : "literal",
@@ -6789,11 +6963,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5499599"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Fredy Otárola"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -6826,6 +6995,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fredy Otárola"
       },
       "facebook" : {
         "type" : "literal",
@@ -6873,11 +7047,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5571444"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gloria Ramos"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -6910,6 +7079,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gloria Ramos"
       }
     }, {
       "statement" : {
@@ -6953,11 +7127,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5578179"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Walter Menchola"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -6990,6 +7159,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Walter Menchola"
       }
     }, {
       "statement" : {
@@ -7033,11 +7207,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5615607"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Guido Lombardi"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -7070,6 +7239,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guido Lombardi"
       },
       "facebook" : {
         "type" : "literal",
@@ -7117,11 +7291,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5621390"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gustavo Espinoza"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -7154,6 +7323,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gustavo Espinoza"
       }
     }, {
       "statement" : {
@@ -7197,15 +7371,169 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5654876"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Manuel Bartolomé Ferreyros"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Manuel Bartolomé Ferreyros"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1357543"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of the Republic of Peru"
+      },
+      "org_qu" : {
+        "xml:lang" : "qu",
+        "type" : "literal",
+        "value" : "Piruwpa Kunrisun"
+      },
+      "org_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de la República del Perú"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q419"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manuel Bartolomé Ferreyros"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q56679131-6cb49b66-4a26-1cff-2203-e9d4b61150a8"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role_superclass_qu" : {
+        "xml:lang" : "qu",
+        "type" : "literal",
+        "value" : "Apulliq"
+      },
+      "role_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "parlamentario"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18812470"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Congress of the Republic of Peru"
+      },
+      "role_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "congresista del Perú"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56679131"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Julio Rosas Huaranga"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1357543"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of the Republic of Peru"
+      },
+      "org_qu" : {
+        "xml:lang" : "qu",
+        "type" : "literal",
+        "value" : "Piruwpa Kunrisun"
+      },
+      "org_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Congreso de la República del Perú"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q419"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "130"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "JulioRosasH"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q56679136-9d05f744-42bb-3cc8-749c-b81396d7376c"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role_superclass_qu" : {
+        "xml:lang" : "qu",
+        "type" : "literal",
+        "value" : "Apulliq"
+      },
+      "role_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "parlamentario"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18812470"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Congress of the Republic of Peru"
+      },
+      "role_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "congresista del Perú"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56679136"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Edyson Humberto Morales Ramirez"
       },
       "org" : {
         "type" : "uri",
@@ -7277,11 +7605,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5673809"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ana Jara"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -7314,6 +7637,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ana Jara"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -7367,11 +7695,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5673978"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ana María Solórzano"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -7404,6 +7727,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ana María Solórzano"
       }
     }, {
       "statement" : {
@@ -7447,11 +7775,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5673978"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ana María Solórzano"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -7484,6 +7807,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ana María Solórzano"
       }
     }, {
       "statement" : {
@@ -7527,11 +7855,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q567582"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Raúl Porras Barrenechea"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -7564,6 +7887,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Raúl Porras Barrenechea"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -7617,11 +7945,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5699074"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Antonio Medina Ortiz"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -7654,6 +7977,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antonio Medina Ortiz"
       }
     }, {
       "statement" : {
@@ -7697,11 +8025,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5726809"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Henry Pease"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -7734,6 +8057,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Henry Pease"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -7782,11 +8110,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5761355"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Hilda Guevara"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -7819,6 +8142,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hilda Guevara"
       }
     }, {
       "statement" : {
@@ -7862,11 +8190,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5833940"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Enrique Wong"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -7899,6 +8222,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Enrique Wong"
       }
     }, {
       "statement" : {
@@ -7942,11 +8270,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5867624"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Francisco Tudela y Varela"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -7979,6 +8302,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Francisco Tudela y Varela"
       }
     }, {
       "statement" : {
@@ -8022,11 +8350,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5889858"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gustavo Rondón"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -8059,6 +8382,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gustavo Rondón"
       }
     }, {
       "statement" : {
@@ -8102,11 +8430,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5906033"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Héctor Becerril"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -8139,6 +8462,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Héctor Becerril"
       }
     }, {
       "statement" : {
@@ -8182,11 +8510,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5930961"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Jhon Reynaga"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -8219,6 +8542,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jhon Reynaga"
       },
       "facebook" : {
         "type" : "literal",
@@ -8266,11 +8594,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5945915"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "José Antonio Urquizo"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -8303,6 +8626,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "José Antonio Urquizo"
       },
       "facebook" : {
         "type" : "literal",
@@ -8350,11 +8678,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5946457"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "José de la Riva-Agüero y Looz Corswaren"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -8387,6 +8710,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "José de la Riva-Agüero y Looz Corswaren"
       }
     }, {
       "statement" : {
@@ -8430,11 +8758,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5948019"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rafael Yamashiro"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -8467,6 +8790,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rafael Yamashiro"
       }
     }, {
       "statement" : {
@@ -8510,11 +8838,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5956862"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Justiniano Apaza"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -8548,6 +8871,11 @@
         "type" : "literal",
         "value" : "130"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Justiniano Apaza"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "justinianoapaza"
@@ -8564,7 +8892,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Arequipa Region"
+        "value" : "Arequipa"
       },
       "district_name_qu" : {
         "xml:lang" : "qu",
@@ -8574,7 +8902,7 @@
       "district_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Departamento de Arequipa"
+        "value" : "Arequipa"
       },
       "district_name_ay" : {
         "xml:lang" : "ay",
@@ -8623,11 +8951,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5977114"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Luciana León"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -8660,6 +8983,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luciana León"
       },
       "facebook" : {
         "type" : "literal",
@@ -8707,11 +9035,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5983176"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Luis Delgado Aparicio"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -8744,6 +9067,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luis Delgado Aparicio"
       }
     }, {
       "statement" : {
@@ -8787,11 +9115,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5985016"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Luz Salgado"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -8824,6 +9147,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luz Salgado"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -8886,11 +9214,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5996324"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Marco Falconí"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -8923,6 +9246,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marco Falconí"
       },
       "facebook" : {
         "type" : "literal",
@@ -8970,11 +9298,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6076791"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Isaac Mekler"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -9007,6 +9330,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isaac Mekler"
       }
     }, {
       "statement" : {
@@ -9050,11 +9378,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6077101"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Isaac Serna"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -9087,6 +9410,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Isaac Serna"
       }
     }, {
       "statement" : {
@@ -9130,11 +9458,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6102482"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Reber Ramírez Gamarra"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -9167,6 +9490,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Reber Ramírez Gamarra"
       },
       "facebook" : {
         "type" : "literal",
@@ -9214,11 +9542,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6108596"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Richard Acuña Núñez"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -9252,6 +9575,11 @@
         "type" : "literal",
         "value" : "130"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Richard Acuña Núñez"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "RichardAcunaN"
@@ -9268,7 +9596,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "La Libertad Region"
+        "value" : "La Libertad"
       },
       "district_name_qu" : {
         "xml:lang" : "qu",
@@ -9278,7 +9606,7 @@
       "district_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Departamento de La Libertad"
+        "value" : "La Libertad"
       },
       "district_name_ay" : {
         "xml:lang" : "ay",
@@ -9327,11 +9655,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6110942"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rogelio Canches Guzmán"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -9364,6 +9687,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rogelio Canches Guzmán"
       }
     }, {
       "statement" : {
@@ -9407,11 +9735,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6115961"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rómulo León"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -9444,6 +9767,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rómulo León"
       }
     }, {
       "statement" : {
@@ -9487,11 +9815,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6148678"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tomás Zamudio Bricenos"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -9524,6 +9847,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tomás Zamudio Bricenos"
       },
       "facebook" : {
         "type" : "literal",
@@ -9571,11 +9899,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6165488"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Javier Díez Canseco"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -9608,6 +9931,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Javier Díez Canseco"
       }
     }, {
       "statement" : {
@@ -9651,11 +9979,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6165488"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Javier Díez Canseco"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -9688,6 +10011,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Javier Díez Canseco"
       }
     }, {
       "statement" : {
@@ -9731,11 +10059,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6165488"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Javier Díez Canseco"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -9768,6 +10091,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Javier Díez Canseco"
       }
     }, {
       "statement" : {
@@ -9811,11 +10139,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6191156"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Jhony Peralta"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -9848,6 +10171,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jhony Peralta"
       }
     }, {
       "statement" : {
@@ -9891,11 +10219,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6277995"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Jorge Flores"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -9928,6 +10251,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jorge Flores"
       }
     }, {
       "statement" : {
@@ -9971,11 +10299,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6292894"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "José Luna"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -10008,6 +10331,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "José Luna"
       },
       "facebook" : {
         "type" : "literal",
@@ -10055,11 +10383,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6292926"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "José Macedo"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -10092,6 +10415,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "José Macedo"
       }
     }, {
       "statement" : {
@@ -10135,11 +10463,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6292946"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "José Mallqui"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -10172,6 +10495,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "José Mallqui"
       }
     }, {
       "statement" : {
@@ -10215,11 +10543,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6293374"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "José Maslucan"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -10252,6 +10575,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "José Maslucan"
       }
     }, {
       "statement" : {
@@ -10295,11 +10623,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6293955"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "José Saldaña"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -10332,6 +10655,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "José Saldaña"
       }
     }, {
       "statement" : {
@@ -10375,11 +10703,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6299247"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Juan Carlos Eguren"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -10412,6 +10735,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Juan Carlos Eguren"
       }
     }, {
       "statement" : {
@@ -10455,11 +10783,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6300781"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Juan Perry"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -10492,6 +10815,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Juan Perry"
       }
     }, {
       "statement" : {
@@ -10535,11 +10863,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6318879"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Juvenal Ordoñez"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -10572,6 +10895,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Juvenal Ordoñez"
       }
     }, {
       "statement" : {
@@ -10615,11 +10943,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6318883"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Juvenal Silva"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -10652,6 +10975,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Juvenal Silva"
       }
     }, {
       "statement" : {
@@ -10695,11 +11023,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6370973"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Karina Beteta"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -10732,6 +11055,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karina Beteta"
       }
     }, {
       "statement" : {
@@ -10775,11 +11103,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6389326"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kenji Fujimori"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -10812,6 +11135,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kenji Fujimori"
       },
       "facebook" : {
         "type" : "literal",
@@ -10859,11 +11187,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6538022"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Leyla Chihuán"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -10896,6 +11219,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leyla Chihuán"
       },
       "facebook" : {
         "type" : "literal",
@@ -10943,11 +11271,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6689749"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lourdes Alcorta"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -10981,6 +11304,11 @@
         "type" : "literal",
         "value" : "130"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lourdes Alcorta"
+      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -10993,7 +11321,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Lima Region"
+        "value" : "Lima"
       },
       "district_name_qu" : {
         "xml:lang" : "qu",
@@ -11003,7 +11331,7 @@
       "district_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Departamento de Lima"
+        "value" : "Lima"
       },
       "district_name_ay" : {
         "xml:lang" : "ay",
@@ -11052,11 +11380,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6689777"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lourdes Mendoza"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -11089,6 +11412,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lourdes Mendoza"
       },
       "facebook" : {
         "type" : "literal",
@@ -11136,11 +11464,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6700540"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Luis Falla"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -11173,6 +11496,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luis Falla"
       }
     }, {
       "statement" : {
@@ -11216,11 +11544,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6700615"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Luis Galarreta"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -11253,6 +11576,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luis Galarreta"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -11306,11 +11634,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6700615"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Luis Galarreta"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -11343,6 +11666,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luis Galarreta"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -11401,11 +11729,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6700686"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Luis Guerrero"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -11438,6 +11761,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luis Guerrero"
       }
     }, {
       "statement" : {
@@ -11481,11 +11809,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6700932"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Luis Negreiros"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -11518,6 +11841,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luis Negreiros"
       }
     }, {
       "statement" : {
@@ -11561,11 +11889,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6700932"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Luis Negreiros"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -11598,6 +11921,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luis Negreiros"
       }
     }, {
       "statement" : {
@@ -11641,11 +11969,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6701210"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Luis Wilson"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -11678,6 +12001,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alberto Contreras de"
       }
     }, {
       "statement" : {
@@ -11721,11 +12049,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6760175"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Margarita Sucari"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -11758,6 +12081,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Margarita Sucari"
       }
     }, {
       "statement" : {
@@ -11801,11 +12129,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6761169"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "María Elena Foronda Farro"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -11838,6 +12161,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "María Elena Foronda Farro"
       },
       "facebook" : {
         "type" : "literal",
@@ -11885,11 +12213,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6764518"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mario Alegría"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -11922,6 +12245,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Alegría"
       }
     }, {
       "statement" : {
@@ -11965,11 +12293,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6781921"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "María Balta"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -12002,6 +12325,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "María Balta"
       }
     }, {
       "statement" : {
@@ -12045,11 +12373,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6844585"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Miguel Guevara"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -12082,6 +12405,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Miguel Guevara"
       }
     }, {
       "statement" : {
@@ -12125,11 +12453,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6874976"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Miró Ruiz"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -12162,6 +12485,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Miró Ruiz"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -12210,11 +12538,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6894801"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Moises Wolfenson"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -12247,6 +12570,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Moises Wolfenson"
       }
     }, {
       "statement" : {
@@ -12290,11 +12618,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6962898"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nancy Obregón"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -12327,6 +12650,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nancy Obregón"
       }
     }, {
       "statement" : {
@@ -12370,11 +12698,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6967977"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Natale Amprimo"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -12407,6 +12730,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Natale Amprimo"
       }
     }, {
       "statement" : {
@@ -12450,11 +12778,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7089669"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Omar Chehade"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -12487,6 +12810,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Omar Chehade"
       },
       "facebook" : {
         "type" : "literal",
@@ -12534,11 +12862,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7106134"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Oscar Medelius"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -12571,6 +12894,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Oscar Medelius"
       }
     }, {
       "statement" : {
@@ -12614,11 +12942,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7108193"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Oswaldo Luizar"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -12651,6 +12974,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Oswaldo Luizar"
       }
     }, {
       "statement" : {
@@ -12694,11 +13022,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7108204"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Oswaldo de la Cruz"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -12731,6 +13054,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Oswaldo de la Cruz"
       }
     }, {
       "statement" : {
@@ -12774,11 +13102,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7159938"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pedro Santos"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -12811,6 +13134,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pedro Santos"
       }
     }, {
       "statement" : {
@@ -12854,11 +13182,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7282356"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rafael Vásquez"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -12891,6 +13214,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rafael Vásquez"
       }
     }, {
       "statement" : {
@@ -12934,11 +13262,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7299748"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "feo naro"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -12971,6 +13294,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "feo naro"
       }
     }, {
       "statement" : {
@@ -13014,11 +13342,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7313631"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Renzo Reggiardo"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -13051,6 +13374,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Renzo Reggiardo"
       }
     }, {
       "statement" : {
@@ -13094,11 +13422,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7322764"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ricardo Pando"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -13131,6 +13454,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ricardo Pando"
       }
     }, {
       "statement" : {
@@ -13174,11 +13502,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7356078"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rocío González Zúñiga"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -13211,6 +13534,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rocío González Zúñiga"
       }
     }, {
       "statement" : {
@@ -13254,11 +13582,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7358707"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Roger Najar"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -13291,6 +13614,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roger Najar"
       }
     }, {
       "statement" : {
@@ -13334,11 +13662,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7360580"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rolando Reátegui"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -13371,6 +13694,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rolando Reátegui"
       },
       "facebook" : {
         "type" : "literal",
@@ -13418,11 +13746,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7360586"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rolando Sousa"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -13455,6 +13778,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rolando Sousa"
       }
     }, {
       "statement" : {
@@ -13498,11 +13826,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7367040"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rosa Florián"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -13535,6 +13858,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rosa Florián"
       }
     }, {
       "statement" : {
@@ -13578,11 +13906,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7367133"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rosa Venegas"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -13615,6 +13938,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rosa Venegas"
       }
     }, {
       "statement" : {
@@ -13658,11 +13986,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7851890"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tula Benites"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -13695,6 +14018,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tula Benites"
       }
     }, {
       "statement" : {
@@ -13738,11 +14066,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7944653"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Víctor Isla"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -13775,6 +14098,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Víctor Isla"
       }
     }, {
       "statement" : {
@@ -13818,11 +14146,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7944653"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Víctor Isla"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -13855,6 +14178,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Víctor Isla"
       }
     }, {
       "statement" : {
@@ -13898,11 +14226,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7944686"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Víctor Mayorga"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -13935,6 +14258,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Víctor Mayorga"
       }
     }, {
       "statement" : {
@@ -13978,11 +14306,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7972533"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Washington Zeballos"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -14015,6 +14338,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Washington Zeballos"
       }
     }, {
       "statement" : {
@@ -14058,11 +14386,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7983360"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Werner Cabrera"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -14095,6 +14418,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Werner Cabrera"
       }
     }, {
       "statement" : {
@@ -14138,11 +14466,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8001088"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Wilder Calderón"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -14175,6 +14498,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Wilder Calderón"
       }
     }, {
       "statement" : {
@@ -14218,11 +14546,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8048348"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yaneth Cajahuanca"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -14255,6 +14578,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yaneth Cajahuanca"
       }
     }, {
       "statement" : {
@@ -14298,11 +14626,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8055061"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yonhy Lescano"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -14335,6 +14658,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yonhy Lescano"
       },
       "facebook" : {
         "type" : "literal",
@@ -14382,11 +14710,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q8076697"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Álvaro Gutiérrez Cueva"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -14419,6 +14742,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Álvaro Gutiérrez Cueva"
       }
     }, {
       "statement" : {
@@ -14462,11 +14790,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q9016509"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Julio Herrera"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -14499,6 +14822,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Julio Herrera"
       }
     }, {
       "statement" : {
@@ -14542,11 +14870,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q9029187"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Marisa Glave"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -14579,6 +14902,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marisa Glave"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -14631,11 +14959,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q9029682"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Martha Moyano"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -14668,6 +14991,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Martha Moyano"
       }
     }, {
       "statement" : {
@@ -14711,11 +15039,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q9031673"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mercedes Aráoz"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -14748,6 +15071,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mercedes Aráoz"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -14805,11 +15133,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q9031674"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mercedes Cabanillas"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -14842,6 +15165,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mercedes Cabanillas"
       },
       "name_qu" : {
         "xml:lang" : "qu",
@@ -14890,11 +15218,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q9050090"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nidia Vílchez"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -14927,6 +15250,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nidia Vílchez"
       }
     }, {
       "statement" : {
@@ -14970,11 +15298,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q9074249"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Santiago Fujimori"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -15007,6 +15330,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Santiago Fujimori"
       }
     }, {
       "statement" : {
@@ -15050,11 +15378,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q9095249"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Víctor Andrés García Belaúnde"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -15087,6 +15410,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Víctor Andrés García Belaúnde"
       },
       "facebook" : {
         "type" : "literal",
@@ -15134,11 +15462,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q9095249"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Víctor Andrés García Belaúnde"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -15171,6 +15494,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Víctor Andrés García Belaúnde"
       },
       "facebook" : {
         "type" : "literal",
@@ -15218,11 +15546,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q960426"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Carlos Ferrero"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -15255,6 +15578,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carlos Ferrero"
       }
     }, {
       "statement" : {
@@ -15298,11 +15626,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q961411"
       },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alberto Andrade"
-      },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
@@ -15335,6 +15658,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "130"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alberto Andrade"
       },
       "name_qu" : {
         "xml:lang" : "qu",
